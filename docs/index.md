@@ -1,3 +1,5 @@
+---
+---
 # My Obsidian Setup
 
 
